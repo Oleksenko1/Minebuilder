@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c514d8670bafc514d8f5c8c8bc18ee3b, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  icon: {fileID: -1245299934, guid: 8c2bb6ed606331941badcd9b35f68015, type: 3}
+  blockName: Wood
+  prefab: {fileID: 3210250014829280122, guid: dd9e77530293c7d4499a3a002eb57625, type: 3}
+  height: 1
+  isRotateble: 1
+  placeSFX: {fileID: 8300000, guid: b88f5ae07fa346745a58a8409e2ad037, type: 3}
+  placeSFXVolume: 10
+  breakSFX: {fileID: 8300000, guid: 85a9969650c55dc43a7b61ad6dad2df3, type: 3}
+  breakSFXVolume: 0.5

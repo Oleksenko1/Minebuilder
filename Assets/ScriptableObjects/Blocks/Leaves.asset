@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c514d8670bafc514d8f5c8c8bc18ee3b, type: 3}
+  m_Name: Leaves
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: edd57551c82065d44b151f8dba093257, type: 3}
+  blockName: Leaves
+  prefab: {fileID: 7750852634001023651, guid: ee6598e515d9da245a35c494751379e7, type: 3}
+  height: 1
+  isRotateble: 0
+  placeSFX: {fileID: 8300000, guid: 113ee1bc9d9e8924186c7099b03145f1, type: 3}
+  placeSFXVolume: 0.6
+  breakSFX: {fileID: 8300000, guid: c02acddf5d31ceb4c8f54a51fa9ee4a8, type: 3}
+  breakSFXVolume: 0.6
